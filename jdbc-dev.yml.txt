@@ -1,0 +1,4 @@
+jdbc:
+	userName: sjk
+	password: sjk123
+	url: jdbc.mysql:6372/sjk
